@@ -1,0 +1,6 @@
+username;password;expected_success
+nawal;nawal123;FALSE
+tomsmith;SuperSecretPassword!;TRUE
+Dan;y@!kkfkf;FALSE
+tomsmith;12345698;FALSE
+Amal;SuperSecretPassword!;FALSE

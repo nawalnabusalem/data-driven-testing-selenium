@@ -1,0 +1,27 @@
+[
+  {
+    "username": "nawal",
+    "password": "nawal123",
+    "expected_success": false
+  },
+  {
+    "username": "tomsmith",
+    "password": "SuperSecretPassword!",
+    "expected_success": true
+  },
+  {
+    "username": "Dan",
+    "password": "y@!kkfkf",
+    "expected_success": false
+  },
+  {
+    "username": "tomsmith",
+    "password": "12345698",
+    "expected_success": false
+  },
+  {
+    "username": "Amal",
+    "password": "SuperSecretPassword!",
+    "expected_success": false
+  }
+]
