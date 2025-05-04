@@ -34,23 +34,19 @@ data-driven-testing-selenium/
 
 # ⚙️ How to Run
 
-1. Install Dependencies.
-<pre> 
-pip install -r requirements.txt
-</pre>
+1. **Install Dependencies.**
+   ```bash
+   pip install -r requirements.txt
 
-2. For each test, update the driver path.
+2. **For each test, update the driver path.**
 
-3. Run All Tests.
-<pre> 
-pytest tests/
-</pre>
+3. **Run All Tests.**
+   ```bash 
+   pytest tests/
 
-4. Run a Specific Test File.
-<pre> 
-pytest tests/test_login_json_data.py
-</pre>
-
+4. **Run a Specific Test File.**
+   ```bash 
+   pytest tests/test_login_json_data.py
 
 # 📎 Tools & Libraries
 
