@@ -13,7 +13,7 @@ This project demonstrates data-driven testing using Python's pytest framework an
 - Clean and reusable test structure using pytest fixtures.
 
 
-# 🧱 Project Structure
+# 📁 Project Structure
   
 <pre> 
 data-driven-testing-selenium/
